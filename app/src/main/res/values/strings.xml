@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyBrowser</string>
+    <string name="web_address">web address</string>
+    <string name="search">SEARCH</string>
+</resources>
